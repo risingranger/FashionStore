@@ -1,4 +1,4 @@
-## Fashionstore ecommerce app for shopping
+## Fashionstore ecommerce app for shopping 
 Due to the covid-19 pandemic, many small-scale businesses and retailers face the issue of selling their goods in the traditional retail methods. There has been a gradual shift to online shopping thereby reducing the physical buying of goods from stores and malls. Shop vendors have therefore incurred huge losses due to their incapability of connecting to the target consumers. There is a need to develop a user-friendly online shopping website to connect businesses with their relevant customers. With the help of this website, one can have an online shopping experience from the comfort of their home. There is no compelling reason to go to crowded stores or shopping centers during festival seasons.to shop online one simply requires a personal computer or a laptop and one payment sending option.
 
 The project consists of a homepage where all the available products are displayed. There is a cart page that displays the current user’s order details. The website also consists of a checkout page where the consumer can enter his personal and payment details. The project also consists of an administration section where the administrator can update the stocks, process pending orders, and add new products. The website frontend will be created using Html and CSS. The website backend will be created using the Flask framework. This website will be hosted over the internet with the help of Microsoft Azure service, a cloud hosting platform.
@@ -19,7 +19,7 @@ https://trendyfashionstore.azurewebsites.net/admin
 4. Type the command "python app.py runserver"
 
 
-# Screenshots of the project
+# Screenshots of the project implementation
 User side 
 ![image](https://user-images.githubusercontent.com/96188342/150785779-3b8da68f-3d25-4045-ad19-649ec3193b61.png)
 

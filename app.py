@@ -8,6 +8,7 @@ from wtforms import StringField, IntegerField, TextAreaField, HiddenField, Selec
 from flask_wtf.file import FileField, FileAllowed
 import random
 
+application = app
 app = Flask(__name__)
 
 photos = UploadSet('photos', IMAGES)

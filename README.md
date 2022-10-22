@@ -14,9 +14,10 @@ https://trendyfashionstore.azurewebsites.net/admin
 
 # Commands to run porject on local machine 
 1. Download zip file or git clone the project on a ide(VScode/Pycharm) and navigate to the directory where the project is present
-2. Type the command "pip install -r requirements.txt" 
-3. The above command will install all the required dependencies
-4. Type the command "python app.py runserver"
+2. Create a virtual environment.
+3. Type the command "pip install -r requirements.txt" 
+4. The above command will install all the required dependencies
+5. Type the command "python app.py runserver"/"python3 app.py runserver"
 
 
 # Screenshots of the project implementation
